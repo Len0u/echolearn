@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+
+# PDFs (if you don't want to commit these)
+*.pdf
